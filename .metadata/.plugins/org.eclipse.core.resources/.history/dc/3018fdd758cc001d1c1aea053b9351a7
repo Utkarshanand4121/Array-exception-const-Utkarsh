@@ -1,0 +1,16 @@
+package first.java;
+
+public class MenuBasedProgram {
+       
+	 PrimeExample primeExample=new PrimeExample();
+	 FactorialE factorialE=new FactorialE();
+	 Scanner scanner=new Scanner(System.in);
+
+	 System.out.println("Enter your choice");
+	 System.out.println(1-->Prime");
+	 System.out.println("2-->fact");
+	 System.out.println("3-->exit");
+	 System.out.println("Enter your choice");
+	 int choice==
+}
+class MenuBasedProgram
